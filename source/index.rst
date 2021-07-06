@@ -15,7 +15,7 @@ Researcher at `Science for Life Laboratory <https://www.scilifelab.se/>`_
 
 EMail: zhmurov@gmail.com
 
-Phone: +7 926 793 0460
+Phone: +7 965 714 50 31
 
 Profiles: 
 `Google Scholar <http://scholar.google.ru/citations?user=5t0deUYAAAAJ>`_, 
