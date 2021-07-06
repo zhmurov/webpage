@@ -55,9 +55,15 @@ Moscow Institute of Physics and Technolody
 
 2004 --- B.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technolody (adviser: Andrey Galkin)
 
+.. include:: teaching.rst
+
 .. include:: publications.rst
 
 .. include:: funding.rst
 
 .. toctree::
    :maxdepth: 1
+   
+   teaching
+   publications
+   funding
