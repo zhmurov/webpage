@@ -7,7 +7,7 @@ Teaching
 
 - `GROMACS tutorials <https://tutorials.gromacs.org/>`_.
 
-- Computational mathematics (MIPT).
+- `Computational mathematics (MIPT) <teaching/compmath/index.html>`_.
 
 - Molecular simulations (MIPT).
 
