@@ -6,25 +6,38 @@
 Artem Zhmurov
 =============
 
-Research Software Engineer and Domain Expert in Life Sciences at `EuroCC National Competence Center Sweden (ENCCS) <https://enccs.se/>`_.
-
-Application expert and Researcher at `PDC Center for High Performance Computing, KTH Royal Institute of Technology <https://www.pdc.kth.se/>`_.
-
-Researcher at `Science for Life Laboratory <https://www.scilifelab.se/>`_
-
-
 EMail: zhmurov@gmail.com
 
 Phone: +7 965 714 50 31
 
-Profiles: 
+Research profiles:
 `Google Scholar <http://scholar.google.ru/citations?user=5t0deUYAAAAJ>`_, 
 `Researcher ID <http://www.researcherid.com/rid/F-4455-2012>`_, 
 `Scopus <http://www.scopus.com/authid/detail.url?authorId=36524431100>`_.
 
+GitLab:
+`@artemzhmurov <https://gitlab.com/artemzhmurov>`_.
+
+GitHub:
+`@zhmurov <https://github.com/zhmurov>`_.
+
 Social:
-`Twiter <https://twitter.com/ArtemZhmurov>`_
-`Instagram <https://www.instagram.com/artemzhmurov/>`_
+`Twiter <https://twitter.com/ArtemZhmurov>`_,
+`Instagram <https://www.instagram.com/artemzhmurov/>`_.
+
+Current occupation
+------------------
+
+- `Research Software Engineer and Domain Expert in Life Sciences <https://enccs.se/people/artem-zhmurov>`_
+  at `EuroCC National Competence Center Sweden (ENCCS) <https://enccs.se/>`_.
+
+- `Application expert and Researcher <https://www.kth.se/profile/zhmurov?l=en>`_
+  at `PDC Center for High Performance Computing, KTH Royal Institute of Technology <https://www.pdc.kth.se/>`_.
+
+- `Researcher <https://www.biophysics.se/index.php/members/artem-zhmurov/>`_
+  at `Science for Life Laboratory <https://www.scilifelab.se/>`_.
+
+- Core developer of `the GROMACS molecular simulation toolkit <https://gitlab.com/gromacs/gromacs>`_. 
 
 Education
 ---------
