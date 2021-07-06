@@ -44,5 +44,7 @@ Moscow Institute of Physics and Technolody
 
 .. include:: publications.rst
 
+.. include:: funding.rst
+
 .. toctree::
    :maxdepth: 1
