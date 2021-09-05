@@ -14,7 +14,7 @@ pages:
   stage: deploy
   script:
   - pip install -U sphinx
-  - sphinx-build -b source build
+  - sphinx-build -b html source build
   artifacts:
     paths:
     - build
