@@ -4,19 +4,19 @@ test:
   stage: test
   script:
   - pip install -U sphinx
-  - sphinx-build -b html . source
+  - sphinx-build -b html source build
   only:
   - branches
   except:
-  - master
+  - main
 
 pages:
   stage: deploy
   script:
   - pip install -U sphinx
-  - sphinx-build -b html . source
+  - sphinx-build -b source build
   artifacts:
     paths:
-    - source
+    - build
   only:
-  - master
+  - main
