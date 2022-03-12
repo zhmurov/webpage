@@ -1,9 +1,13 @@
 Publications
 ------------
 
+30. E. Kliuchnikov, E. Klyshko, M.S. Kelly, A. Zhmurov, R.I. Dima, K.A. Marx, V. Barsegov,
+    "`Microtubule assembly and disassembly dynamics model: Exploring dynamic instability and identifying features of Microtubules' Growth, Catastrophe, Shortening, and Rescue <https://www.sciencedirect.com/science/article/pii/S2001037022000356>`_",
+    *Comput. Struct. Biotech. J.*, **20:** 953-974 (2022).
+
 29. V.A. Fedorov, E.G. Kholina, I.B. Kovalenko, N.B. Gudimchuk, P.S. Orekhov, A.A. Zhmurov,
     "`Update on performance analysis of different computational architectures: Molecular Dynamics in application to protein-protein interactions <https://superfri.org/superfri/article/view/337>`_",
-    *Supercomp. Frontiers Innovat.*, **7:** 62-67 (2021).
+    *Supercomp. Frontiers Innovat.*, **7:** 62-67 (2020).
 
 28. S. Páll, A. Zhmurov, P. Bauer, M. Abraham, M. Lundborg, A. Gray, B. Hess, E. Lindahl,
     "`Heterogeneous parallelization and acceleration of molecular dynamics simulations in GROMACS <https://aip.scitation.org/doi/full/10.1063/5.0018516>`_",
