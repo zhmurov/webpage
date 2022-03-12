@@ -28,7 +28,7 @@ Social:
 Current occupation
 ------------------
 
-- `Research Software Engineer and Domain Expert in Life Sciences <https://enccs.se/people/artem-zhmurov>`_
+- `Research Software Engineer and Domain Expert in Life Sciences <https://enccs.se/artem-zhmurov>`_
   at `EuroCC National Competence Center Sweden (ENCCS) <https://enccs.se/>`_.
 
 - `Application expert and Researcher <https://www.kth.se/profile/zhmurov?l=en>`_
