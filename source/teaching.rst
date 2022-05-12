@@ -7,7 +7,7 @@ Teaching
 
 - `Intermediate OpenACC/CUDA (CUDA part) <https://enccs.github.io/OpenACC-CUDA-intermediate/>`_.
 
-- `GROMACS GPU performance workshop <https://enccs.github.io/gromacs-gpu-performance/>_`.
+- `GROMACS GPU performance workshop <https://enccs.github.io/gromacs-gpu-performance/>`_.
 
 - `GROMACS tutorials <https://tutorials.gromacs.org/>`_.
 
