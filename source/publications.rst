@@ -1,6 +1,10 @@
 Publications
 ------------
 
+31. N.L. Asquith, C. Duval, A. Zhmurov, S.R. Baker, H.R. McPherson, M.M. Domingues, S.D.A. Connell, V. Barsegov, R.A.S. Ariëns,
+    "`Fibrin protofibril packing and clot stability are enhanced by extended knob-hole interactions and catch-slip bonds <https://www.sciencedirect.com/science/article/pii/S2473952922003317>`_",
+    *Blood Advances*, in press (2022).
+
 30. E. Kliuchnikov, E. Klyshko, M.S. Kelly, A. Zhmurov, R.I. Dima, K.A. Marx, V. Barsegov,
     "`Microtubule assembly and disassembly dynamics model: Exploring dynamic instability and identifying features of Microtubules' Growth, Catastrophe, Shortening, and Rescue <https://www.sciencedirect.com/science/article/pii/S2001037022000356>`_",
     *Comput. Struct. Biotech. J.*, **20:** 953-974 (2022).
