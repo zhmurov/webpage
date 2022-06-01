@@ -13,6 +13,6 @@ Funding
 
 2014 -- 2016: Post-doctoral fellowship from Moscow Institute of Physics and Technology, "From structural and molecular origins of fibrin to biomechanics of thrombosis and haemostasis".
 
-2012 -- 2013: Grant #14.А18.21.1520 from Russian Ministry of Education and Science, "Modelling of large biomolecular comlexes using the combination of multy­level description and hybrid computational architecture".
+2012 -- 2013: Grant #14.A18.21.1520 from Russian Ministry of Education and Science, "Modelling of large biomolecular comlexes using the combination of multi-level description and hybrid computational architecture".
 
-2012 -- 2013: Grant #12-­04-­31861 from Russian Foundation for Basic Research, "Molecular modeling of DNA using chemically accurate coarse­-grained model implemented on the GPU".
+2012 -- 2013: Grant #12-04-31861 from Russian Foundation for Basic Research, "Molecular modeling of DNA using chemically accurate coarse-grained model implemented on the GPU".
