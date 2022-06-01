@@ -1,16 +1,13 @@
 Current occupation (on leave of absence since 07.03.2022)
 ---------------------------------------------------------
 
-- `Research Software Engineer and Domain Expert in Life Sciences <https://enccs.se/artem-zhmurov>`_
+- 16.03.2021 -- today: `Research Software Engineer and Domain Expert in Life Sciences <https://enccs.se/artem-zhmurov>`_
   at `EuroCC National Competence Center Sweden (ENCCS) <https://enccs.se/>`_
 
-- `Application expert and Researcher <https://www.kth.se/profile/zhmurov?l=en>`_
-  at `PDC Center for High Performance Computing, KTH Royal Institute of Technology <https://www.pdc.kth.se/>`_
-
-- `Researcher <https://www.biophysics.se/index.php/members/artem-zhmurov/>`_
+- 01.11.2018 -- today: `Researcher <https://www.biophysics.se/index.php/members/artem-zhmurov/>`_
   at `Science for Life Laboratory <https://www.scilifelab.se/>`_
 
-- Core developer of `the GROMACS molecular simulation toolkit <https://gitlab.com/gromacs/gromacs>`_
+- 01.11.2018 -- today: Core developer of `the GROMACS molecular simulation toolkit <https://www.gromacs.org/>`_
 
 Employment history
 ------------------
