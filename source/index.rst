@@ -25,20 +25,6 @@ Social:
 `Twiter <https://twitter.com/ArtemZhmurov>`_,
 `Instagram <https://www.instagram.com/artemzhmurov/>`_.
 
-Current occupation
-------------------
-
-- `Research Software Engineer and Domain Expert in Life Sciences <https://enccs.se/artem-zhmurov>`_
-  at `EuroCC National Competence Center Sweden (ENCCS) <https://enccs.se/>`_.
-
-- `Application expert and Researcher <https://www.kth.se/profile/zhmurov?l=en>`_
-  at `PDC Center for High Performance Computing, KTH Royal Institute of Technology <https://www.pdc.kth.se/>`_.
-
-- `Researcher <https://www.biophysics.se/index.php/members/artem-zhmurov/>`_
-  at `Science for Life Laboratory <https://www.scilifelab.se/>`_.
-
-- Core developer of `the GROMACS molecular simulation toolkit <https://gitlab.com/gromacs/gromacs>`_. 
-
 Education
 ---------
 
@@ -55,15 +41,10 @@ Education
 
 - 2004, B.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technolody (adviser: Andrey Galkin)
 
+.. include:: employment.rst
+
 .. include:: teaching.rst
 
 .. include:: publications.rst
 
 .. include:: funding.rst
-
-.. toctree::
-   :maxdepth: 1
-   
-   teaching
-   publications
-   funding
