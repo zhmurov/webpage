@@ -1,6 +1,10 @@
 Publications
 ------------
 
+32. E. Kliuchnikov, A. Zhmurov, K.A. Marx, A. Mogilner, V. Barsegov
+    "`CellDynaMo–stochastic reaction-diffusion-dynamics model: Application to search-and-capture process of mitotic spindle assembly <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010165>`_",
+    *PLOS Comput. Biol.*, **18:** e1010165 (2022).
+
 31. N.L. Asquith, C. Duval, A. Zhmurov, S.R. Baker, H.R. McPherson, M.M. Domingues, S.D.A. Connell, V. Barsegov, R.A.S. Ariëns,
     "`Fibrin protofibril packing and clot stability are enhanced by extended knob-hole interactions and catch-slip bonds <https://www.sciencedirect.com/science/article/pii/S2473952922003317>`_",
     *Blood Advances*, in press (2022).
