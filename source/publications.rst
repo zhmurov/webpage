@@ -7,7 +7,7 @@ Publications
 
 31. N.L. Asquith, C. Duval, A. Zhmurov, S.R. Baker, H.R. McPherson, M.M. Domingues, S.D.A. Connell, V. Barsegov, R.A.S. Ariëns,
     "`Fibrin protofibril packing and clot stability are enhanced by extended knob-hole interactions and catch-slip bonds <https://www.sciencedirect.com/science/article/pii/S2473952922003317>`_",
-    *Blood Advances*, in press (2022).
+    *Blood Advances*, **6:** 4015-4027 (2022).
 
 30. E. Kliuchnikov, E. Klyshko, M.S. Kelly, A. Zhmurov, R.I. Dima, K.A. Marx, V. Barsegov,
     "`Microtubule assembly and disassembly dynamics model: Exploring dynamic instability and identifying features of Microtubules' Growth, Catastrophe, Shortening, and Rescue <https://www.sciencedirect.com/science/article/pii/S2001037022000356>`_",
@@ -82,28 +82,28 @@ Publications
     *J. Biomol. Struct. Dyn.*, **31:** 174-194 (2013).
 
 12. O. Kononova, R.I. Litvinov, A. Zhmurov, A. Alekseenko, C.H. Cheng, S. Agarwal, K.A. Marx, J.W. Weisel, and V. Barsegov, 
-    "`Molecular mechanisms, thermodynamics, and dissociation kinetics of knob­-hole interactions in fibrin <http://www.jbc.org/content/288/31/22681.long>`_", 
-    *J. Biol. Chem.*, **288:** 22681­-22692 (2013).
+    "`Molecular mechanisms, thermodynamics, and dissociation kinetics of knob-hole interactions in fibrin <http://www.jbc.org/content/288/31/22681.long>`_", 
+    *J. Biol. Chem.*, **288:** 22681-22692 (2013).
 
 11. A. Zhmurov, O. Kononova, Y. Kholodov, and V. Barsegov, 
-    "`Force-induced phase transition from α-helices to β-sheets in fibrous proteins <http://crm.ics.org.ru/journal/article/2077/>`_", (in Russian) 
-    *Computational Research and Modelling*, **5:** 705­725 (2013).
+    "`Force-induced phase transition from &alpha;-helices to &beta;-sheets in fibrous proteins <http://crm.ics.org.ru/journal/article/2077/>`_", (in Russian) 
+    *Computational Research and Modelling*, **5:** 705-725 (2013).
 
 10. A. Zhmurov, O. Kononova, R.I. Litvinov, R.I. Dima, V. Barsegov, and J.W. Weisel, 
-    "`Mechanical transition from α-helical coiled-coils to β-sheets in Fibrin(ogen) <http://pubs.acs.org/doi/abs/10.1021/ja3076428>`_", 
-    *J. Am. Chem. Soc.*, **134:** 20396-­20402 (2012).
+    "`Mechanical transition from &alpha;-helical coiled-coils to &beta;-sheets in Fibrin(ogen) <http://pubs.acs.org/doi/abs/10.1021/ja3076428>`_", 
+    *J. Am. Chem. Soc.*, **134:** 20396-20402 (2012).
 
 9.  K. Theisen, A. Zhmurov, M. Newberry, V. Barsegov, and R. Dima, 
     "`Multiscale modeling of the nanomechanics of microtubule protofilaments <http://pubs.acs.org/doi/abs/10.1021/jp212608f>`_", 
-    *J. Phys. Chem. B*, **116:** 8545-­8555 (2012).
+    *J. Phys. Chem. B*, **116:** 8545-8555 (2012).
 
 8.  L. Duan, A. Zhmurov, V. Barsegov, and R.I. Dima, 
     "`Exploring the mechanical stability of the C2 domains in human synaptotagmin 1 <http://pubs.acs.org/doi/abs/10.1021/jp2025945>`_", 
-    *J. Phys. Chem. B*, **115:** 10133-­10146 (2011).
+    *J. Phys. Chem. B*, **115:** 10133-10146 (2011).
 
 7.  A. Zhmurov, K. Rybnikov, Y. Kholodov and V. Barsegov, 
     "`Generation of random numbers on graphics processors: Forced indentation *in silico* of the bacteriophage HK97 <http://pubs.acs.org/doi/abs/10.1021/jp109079t>`_", 
-    *J. Phys. Chem. B*, **115:** 5278-­5288 (2011).
+    *J. Phys. Chem. B*, **115:** 5278-5288 (2011).
 
 6.  A. Zhmurov, A.E.X. Brown, R.I. Litvinov, R.I. Dima, J.W. Weisel and V. Barsegov, 
     "`Mechanism of fibrin(ogen) forced unfolding <http://www.cell.com/structure/abstract/S0969-2126(11)00311-X>`_", 
@@ -111,18 +111,18 @@ Publications
 
 5.  A.A. Zhmurov, I.I. Morozov, Y.A. Kholodov, V.A. Barsegov and A.S. Kholodov, 
     "`Efficient generators of pseudorandom numbers for molecular modeling on graphics processors <http://crm.ics.org.ru/journal/article/1809/>`_", (in Russian)
-    *Computational Research and Modelling*, **3:** 296-­311 (2011).
+    *Computational Research and Modelling*, **3:** 296-311 (2011).
 
 4.  A.A. Zhmurov, V.A. Barsegov, S.V. Trifonov, Y.A. Kholodov and A.S. Kholodov, 
     "`Modeling micromechanics on graphics processors using Langevin dynamics <http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mm&paperid=3170>`_", (in Russian)
-    *Mathematical Modeling*, **23:** 133-­156 (2011).
+    *Mathematical Modeling*, **23:** 133-156 (2011).
 
 3.  A. Zhmurov, R.I. Dima and V. Barsegov, 
     "`Order Statistics theory of unfolding of multimeric proteins <http://www.cell.com/biophysj/abstract/S0006-3495(10)00857-X>`_", 
     *Biophys. J.*, **99:** 1959-1968 (2010).
 
 2.  A. Zhmurov, R.I. Dima, Y. Kholodov and V. Barsegov, 
-    "`SOP­-GPU: Accelerating biomolecular simulations in the centisecond timescale on graphics processors <http://onlinelibrary.wiley.com/doi/10.1002/prot.22824/abstract>`_", 
+    "`SOP-GPU: Accelerating biomolecular simulations in the centisecond timescale on graphics processors <http://onlinelibrary.wiley.com/doi/10.1002/prot.22824/abstract>`_", 
     *Proteins*, **78:** 2984-2999 (2010).
 
 1.  E. Bura, A. Zhmurov and V. Barsegov
