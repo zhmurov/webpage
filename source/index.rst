@@ -1,7 +1,3 @@
-.. ArtemZhmurovWebPage documentation master file, created by
-   sphinx-quickstart on Tue Jul  6 13:07:20 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
 Artem Zhmurov
 =============
@@ -42,6 +38,8 @@ Education
 - 2004, B.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technolody (adviser: Andrey Galkin)
 
 .. include:: employment.rst
+
+|
 
 .. include:: teaching.rst
 
