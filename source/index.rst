@@ -6,6 +6,8 @@ EMail: zhmurov@gmail.com
 
 Phone: +7 965 714 50 31
 
+This CV: `https://artemzhmurov.gitlab.io/webpage/ <https://artemzhmurov.gitlab.io/webpage/>`_
+
 Research profiles:
 `Google Scholar <http://scholar.google.ru/citations?user=5t0deUYAAAAJ>`_, 
 `Researcher ID <http://www.researcherid.com/rid/F-4455-2012>`_, 
@@ -38,8 +40,6 @@ Education
 - 2004, B.S. in Applied Mathematics and Physics, Moscow Institute of Physics and Technolody (adviser: Andrey Galkin)
 
 .. include:: employment.rst
-
-|
 
 .. include:: teaching.rst
 
