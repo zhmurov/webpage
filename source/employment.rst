@@ -1,7 +1,7 @@
 Employment history
 ------------------
 
-- 04.08.2022 -- today: Lead Researcher, Sirius University (Sochi, Russia)
+- 04.08.2022 -- today: Lead Researcher / Docent, Sirius University (Sochi, Russia)
 
 - 16.03.2021 -- 31.08.2022 (on leave of absence since 07.03.2022): `Research Software Engineer and Domain Expert in Life Sciences <https://enccs.se/artem-zhmurov>`_
   at `EuroCC National Competence Center Sweden (ENCCS) <https://enccs.se/>`_ (Stockholm, Sweden)
@@ -17,11 +17,11 @@ Employment history
 
 - 01.09.2017 -- 31.08.2018: Docent (Associate Professor), Division of Informatics and Computational Mathematics, Moscow Institute of Physics and Technology (Dolgoprudny, Russia)
 
-- 01.01.2012 -- 31.08.2017: Research/Teaching Associate, Division of Computational Mathematics, Moscow Institute of Physics and Technology (Dolgoprudny, Russia)
+- 01.01.2012 -- 31.08.2017: Research / Teaching Associate, Division of Computational Mathematics, Moscow Institute of Physics and Technology (Dolgoprudny, Russia)
 
 - 01.10.2014 -- 01.01.2016: Postdoctoral fellow, Laboratory of Human Physiology, Moscow Institute of Physics and Technology (Dolgoprudny, Russia)
 
-- 01.09.2006 -- 01.06.2010: Research/Teaching Assistant, University of Massachusetts at Lowell (Lowell, MA, USA)
+- 01.09.2006 -- 01.06.2010: Research / Teaching Assistant, University of Massachusetts at Lowell (Lowell, MA, USA)
 
 - 01.11.2005 -- 31.12.2006: Web-developer, ESTER Solutions (http://www.estersolutions.ru/en/) (Moscow, Russia)
 
