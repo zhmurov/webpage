@@ -1,16 +1,15 @@
-Current occupation (on leave of absence since 07.03.2022)
----------------------------------------------------------
-
-- 16.03.2021 -- today: `Research Software Engineer and Domain Expert in Life Sciences <https://enccs.se/artem-zhmurov>`_
-  at `EuroCC National Competence Center Sweden (ENCCS) <https://enccs.se/>`_ (Stockholm, Sweden)
-
-- 01.11.2018 -- today: `Researcher <https://www.biophysics.se/index.php/members/artem-zhmurov/>`_
-  at `Science for Life Laboratory <https://www.scilifelab.se/>`_ (Stockholm, Sweden)
-
-- 01.11.2018 -- today: Core developer of `the GROMACS molecular simulation toolkit <https://www.gromacs.org/>`_ (Stockholm, Sweden)
-
 Employment history
 ------------------
+
+- 04.08.2022 -- today: Lead Researcher, Sirius University (Sochi, Russia)
+
+- 16.03.2021 -- 31.08.2022 (on leave of absence since 07.03.2022): `Research Software Engineer and Domain Expert in Life Sciences <https://enccs.se/artem-zhmurov>`_
+  at `EuroCC National Competence Center Sweden (ENCCS) <https://enccs.se/>`_ (Stockholm, Sweden)
+
+- 01.11.2018 -- 31.08.2022 (on leave of absence since 07.03.2022): `Researcher <https://www.biophysics.se/index.php/members/artem-zhmurov/>`_
+  at `Science for Life Laboratory <https://www.scilifelab.se/>`_ (Stockholm, Sweden)
+
+- 01.11.2018 -- 31.08.2022 (on leave of absence since 07.03.2022): Core developer of `the GROMACS molecular simulation toolkit <https://www.gromacs.org/>`_ (Stockholm, Sweden)
 
 - 01.11.2020 -- 31.12.2021: Application Expert / Researcher PDC, KTH Royal Institute of Technology (Stockholm, Sweden)
 
