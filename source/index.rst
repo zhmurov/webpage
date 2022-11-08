@@ -6,7 +6,7 @@ EMail: zhmurov@gmail.com
 
 Phone: +7 965 714 50 31
 
-This CV: `https://artemzhmurov.gitlab.io/webpage/ <https://artemzhmurov.gitlab.io/webpage/>`_
+This CV: `https://artemzhmurov.gitlab.io/webpage/ <https://artemzhmurov.gitlab.io/webpage/>`_ or `https://zhmurov.github.io/webpage/ <https://zhmurov.github.io/webpage/>`_
 
 Research profiles:
 `Google Scholar <http://scholar.google.ru/citations?user=5t0deUYAAAAJ>`_, 
