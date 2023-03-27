@@ -13,5 +13,5 @@ Teaching
 
 - `Computational mathematics (MIPT) <teaching/compmath/index.html>`_.
 
-- Molecular simulations (MIPT).
+- `Molecular simulations (MIPT, Sirius) <https://zhmurov.github.io/mdcourse/>`_.
 
