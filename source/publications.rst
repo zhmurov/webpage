@@ -46,7 +46,7 @@ Publications
     *Structure*, **26:** 857-868 (2018).
 
 21. K.A. Minin, A. Zhmurov, K.A. Marx, P.K. Purohit, and V. Barsegov, 
-    "`Dynamic transition from &alpha;-helices to &beta;-sheets in polypeptide coiled-coil motifs <http://pubs.acs.org/doi/10.1021/jacs.7b06883>`_",
+    "`Dynamic transition from α-helices to β-sheets in polypeptide coiled-coil motifs <http://pubs.acs.org/doi/10.1021/jacs.7b06883>`_",
     *J. Am. Chem. Soc.*, **139:** 16168-16177 (2017).
 
 20. Y.F. Zuev, R.I. Litvinov, A.E. Sitnitsky, B.Z. Idiyatullin, D.R. Bakirova, D.K. Galanakis, A. Zhmurov, V. Barsegov, and J.W. Weisel, 
@@ -86,11 +86,11 @@ Publications
     *J. Biol. Chem.*, **288:** 22681-22692 (2013).
 
 11. A. Zhmurov, O. Kononova, Y. Kholodov, and V. Barsegov, 
-    "`Force-induced phase transition from &alpha;-helices to &beta;-sheets in fibrous proteins <http://crm.ics.org.ru/journal/article/2077/>`_", (in Russian) 
+    "`Force-induced phase transition from α-helices to β-sheets in fibrous proteins <http://crm.ics.org.ru/journal/article/2077/>`_", (in Russian) 
     *Computational Research and Modelling*, **5:** 705-725 (2013).
 
 10. A. Zhmurov, O. Kononova, R.I. Litvinov, R.I. Dima, V. Barsegov, and J.W. Weisel, 
-    "`Mechanical transition from &alpha;-helical coiled-coils to &beta;-sheets in Fibrin(ogen) <http://pubs.acs.org/doi/abs/10.1021/ja3076428>`_", 
+    "`Mechanical transition from α-helical coiled-coils to β-sheets in Fibrin(ogen) <http://pubs.acs.org/doi/abs/10.1021/ja3076428>`_", 
     *J. Am. Chem. Soc.*, **134:** 20396-20402 (2012).
 
 9.  K. Theisen, A. Zhmurov, M. Newberry, V. Barsegov, and R. Dima, 
