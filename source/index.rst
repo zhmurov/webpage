@@ -21,10 +21,6 @@ GitLab:
 GitHub:
 `@zhmurov <https://github.com/zhmurov>`_.
 
-Social:
-`Twiter <https://twitter.com/ArtemZhmurov>`_,
-`Instagram <https://www.instagram.com/artemzhmurov/>`_.
-
 Education
 ---------
 
