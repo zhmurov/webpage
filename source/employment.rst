@@ -1,7 +1,9 @@
 Employment history
 ------------------
 
-- 04.08.2022 -- today: Lead Researcher / Docent (Associate Professor) at `Sirius University <https://siriusuniversity.ru/>`_ (Sochi, Russia)
+- 12.12.2023 - Today: Academic Lead for Software Engineering at `Yandex School of Data Analysis <https://shad.yandex.ru/>`_ (Moscow, Russia) 
+
+- 04.08.2022 -- 07.12.2023: Lead Researcher / Docent (Associate Professor) at `Sirius University <https://siriusuniversity.ru/>`_ (Sochi, Russia)
 
 - 16.03.2021 -- 31.08.2022 (on leave of absence since 07.03.2022): Research Software Engineer and Domain Expert in Life Sciences at `EuroCC National Competence Center Sweden (ENCCS) <https://enccs.se/>`_ (Stockholm, Sweden)
 

@@ -4,10 +4,6 @@ Artem Zhmurov
 
 EMail: zhmurov@gmail.com
 
-Phone: +7 965 714 50 31
-
-Telegram: @artemzhmurov
-
 This CV: `https://artemzhmurov.gitlab.io/webpage/ <https://artemzhmurov.gitlab.io/webpage/>`_ or `https://zhmurov.github.io/webpage/ <https://zhmurov.github.io/webpage/>`_
 
 Research profiles:

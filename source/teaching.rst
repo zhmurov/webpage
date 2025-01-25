@@ -3,7 +3,7 @@ Teaching
 
 - `Molecular simulations (MIPT, Sirius) <https://zhmurov.github.io/mdcourse/>`_.
 
-- `CUDA training <https://enccs.github.io/CUDA/>`_.
+- `CUDA training <https://enccs.github.io/cuda/>`_.
 
 - `GROMACS GPU performance workshop <https://enccs.github.io/gromacs-gpu-performance/>`_.
 
