@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Artem Zhmurov'
-copyright = '2022, Artem Zhmurov'
+copyright = '2022-2025, Artem Zhmurov'
 author = 'Artem Zhmurov'
 
 
